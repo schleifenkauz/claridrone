@@ -1,0 +1,1 @@
+{"type":"SoundProcess","_associatedColor":null,"duration":256.9226,"height":0.059,"instrumentRef":"lpf","controls":[{"value":{"type":"Bus","bus":"output"},"name":"bus"},{"value":{"type":"Value","value":8729,"allocateBus":false},"name":"freq"},{"value":{"type":"Value","value":1,"allocateBus":false},"name":"fade"}],"name":"lpf_1"}

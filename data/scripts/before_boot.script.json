@@ -1,0 +1,1 @@
+{"root":{"editor":{"variables":[],"statements":[{"_contentType":"ponticello.sc.editor.AssignmentEditor","assignee":"~fftsize","expression":"2048","disabled":false}],"_type":"ponticello.sc.editor.CodeBlockEditor"},"controlArguments":{}},"type":"BEFORE_BOOT","name":"before_boot"}

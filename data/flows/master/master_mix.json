@@ -1,0 +1,1 @@
+{"type":"MixerFlow","active":true,"targetBus":"output","components":{"objects":[{"sourceBus":"grains","volume":-1.5,"state":"Regular","pan":0},{"sourceBus":"rhythm","volume":0,"state":"Regular","pan":0},{"sourceBus":"valhalla","volume":0,"state":"Regular","pan":0}]},"masterVolume":6,"masterMute":false,"monoMix":false,"activateFilters":false,"name":"master_mix"}

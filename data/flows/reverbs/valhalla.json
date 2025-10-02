@@ -1,0 +1,1 @@
+{"type":"VSTPluginFlow","active":true,"pluginName":"ValhallaSupermassive.vst3","busRef":"valhalla","parameterMappings":{"objects":[{"name":"Mix","controlBus":"valhalla_mix","active":true}]},"name":"valhalla","isValid":true}

@@ -1,0 +1,1 @@
+{"type":"SoundProcess","_associatedColor":"0x008000ff","duration":18.0000,"height":0.045,"instrumentRef":"amp","controls":[{"value":{"type":"Bus","bus":"rhythm"},"name":"bus"},{"value":{"type":"Envelope","points":[{"time":0.0000,"value":0.000},{"time":18.0000,"value":1.000}],"displayColor":"0x000000ff","display":true},"name":"amp"}],"name":"fadein_rhythm"}

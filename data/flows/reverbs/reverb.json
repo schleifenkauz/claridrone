@@ -1,0 +1,1 @@
+{"type":"InstrumentFlow","active":true,"defRef":"reverb","controls":[{"value":{"type":"Value","value":1.5,"allocateBus":false},"name":"rt60"},{"value":{"type":"Value","value":0.20,"allocateBus":false},"name":"mix"},{"value":{"type":"Bus","bus":"rhythm"},"name":"bus"},{"value":{"type":"Value","value":0.00,"allocateBus":false},"name":"stereo"}],"name":"reverb"}
